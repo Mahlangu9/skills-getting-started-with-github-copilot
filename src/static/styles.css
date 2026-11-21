@@ -133,7 +133,7 @@ section h3 {
 
 .participants-list .no-participants {
   list-style: none;
-  margin-left: -20px;
+  margin: 4px 0;
   color: #777;
   font-style: italic;
 }
